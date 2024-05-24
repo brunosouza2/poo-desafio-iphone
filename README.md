@@ -93,4 +93,4 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ### UML
-![Imagem do iPhone]()
+![Imagem do iPhone](https://github.com/brunosouza2/poo-desafio-iphone/blob/main/assets/uml-iphone.jpg)
